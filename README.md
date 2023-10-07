@@ -1,3 +1,3 @@
-# Some verilog Projects
+# Projects
 - VENDING MACHNE
 - ELECTRONICS LOCK
