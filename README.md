@@ -8,5 +8,6 @@ Verilog is a HARDWARE DESCRIPTION LANGUAGE (HDL). It is a language used for desc
 ## Vending Machine
 To Build an electronic combination lock with a reset button, two number buttons (0 and 1), and an unlock output. The combination should be 01011.
 
+
 ## Electronics Lock
 A vending machine, accepts only two coins, 5 rupee and 10 rupee. Whenever total of coins equal to 15 rupee, then a can of coke will be given. It will not return any residual coin, if total of rupees exceeds 15.
