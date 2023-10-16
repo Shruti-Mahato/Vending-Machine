@@ -6,5 +6,7 @@ Verilog is a HARDWARE DESCRIPTION LANGUAGE (HDL). It is a language used for desc
 - [Electronics Lock](#electronics-lock)
 
 ## Vending Machine
+To Build an electronic combination lock with a reset button, two number buttons (0 and 1), and an unlock output. The combination should be 01011.
 
 ## Electronics Lock
+
